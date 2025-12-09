@@ -2,9 +2,15 @@
 
 **Switch between multiple GitHub accounts instantly.** One `.bat` file. No dependencies except Git.
 
+## Download
+
+### [⬇️ Download git-switch.bat](https://raw.githubusercontent.com/Vaixtrom/GitHub-Quick-Account-Switcher/main/git-switch.bat)
+
+> Right-click the link → **Save link as...** → Save to your PC
+
 ## TL;DR
 
-1. Download `git-switch.bat`
+1. Download `git-switch.bat` (link above)
 2. Double-click to run
 3. Add your GitHub accounts (username + email)
 4. Copy the generated SSH key to GitHub ([settings/keys](https://github.com/settings/keys)) → "Authentication Key"
