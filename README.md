@@ -4,9 +4,7 @@
 
 ## Download
 
-### [⬇️ Download git-switch.bat](https://raw.githubusercontent.com/Vaixtrom/GitHub-Quick-Account-Switcher/main/git-switch.bat)
-
-> Right-click the link → **Save link as...** → Save to your PC
+### [⬇️ Download git-switch.bat](https://github.com/Vaixtrom/GitHub-Quick-Account-Switcher/releases/latest/download/git-switch.bat)
 
 ## TL;DR
 
