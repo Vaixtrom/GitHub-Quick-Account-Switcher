@@ -4,7 +4,8 @@
 
 ## Download
 
-### [⬇️ Download git-switch.bat](https://github.com/Vaixtrom/GitHub-Quick-Account-Switcher/releases/latest/download/git-switch.bat)
+### Mac: [⬇️ Download git-switch.sh](https://github.com/Vaixtrom/GitHub-Quick-Account-Switcher/releases/latest/download/git-switch.sh)
+### Windows: [⬇️ Download git-switch.bat](https://github.com/Vaixtrom/GitHub-Quick-Account-Switcher/releases/latest/download/git-switch.bat)
 
 ## TL;DR
 
